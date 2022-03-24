@@ -42,13 +42,13 @@ Welcome
 
 [Working groups (PDF)]({{< baseurl >}}/resources/mit9_70s13_wrkg_grp_l1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Human systems: Aspects and levels of organization and development (PDF)]({{< baseurl >}}/resources/mit9_70s13_hman_apcts_l1)
+[Human systems: Aspects and levels of organization and development (PDF)]({{< baseurl >}}/resources/mit9_70s13_hman_apcts_l1)
 
 [Timesheet (PDF)]({{< baseurl >}}/resources/mit9_70s13_timesheet_l1)
 
 [Study group roster (PDF)]({{< baseurl >}}/resources/mit9_70s13_std_rst_fm_l1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Draft formative and summative evaluation form (PDF)]({{< baseurl >}}/resources/mit9_70s13_frmtve_evltn_l1)
+[Draft formative and summative evaluation form (PDF)]({{< baseurl >}}/resources/mit9_70s13_frmtve_evltn_l1)
 
 
 {{< tdclose >}}

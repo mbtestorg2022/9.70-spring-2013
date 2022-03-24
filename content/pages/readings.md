@@ -287,7 +287,7 @@ Us and Them I
 
 2.5-1 \[SA\] Chapter 5.
 
-2.5-2 Haney, Craig, W. Curtis Banks, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Study of Prisoners and Guards in a Simulated Prison." (PDF)](https://www.researchgate.net/publication/235356446_A_Study_of_Prisoners_and_Guards_in_a_Simulated_Prison) _Naval Research Reviews_ 9, no. 1–17 (1973).
+2.5-2 Haney, Craig, W. Curtis Banks, et al. ["Study of Prisoners and Guards in a Simulated Prison." (PDF)](https://www.researchgate.net/publication/235356446_A_Study_of_Prisoners_and_Guards_in_a_Simulated_Prison) _Naval Research Reviews_ 9, no. 1–17 (1973).
 
 2.5-3 _Quiet Rage: The Stanford Prison Study_. Directed by K. Musen, and P. G. Zimbardo. 1991. \[Stanford, CA: Psychology Dept., Stanford University, videorecording.\]
 
